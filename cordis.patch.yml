@@ -1,0 +1,4 @@
+﻿# dsh-memory-vault bundle patch：把本插件插进 profile 的插件层。
+- insert:
+    - id: memory-vault
+      name: 'dsh-memory-vault'
