@@ -27,6 +27,7 @@
 | `vault_layers` | 看七层分布与状态统计 |
 | `vault_fade` | `status`/`plan`/`apply`/`rollback`，执行自然遗忘 |
 | `vault_digest` | 生成某天的日纪要 |
+| `vault_recall` | 按条目 id 回读它那个时间点前后的原始对话（副库 → 主库） |
 | `vault_grep` | 在主库原文里全文搜索 |
 | `vault_append` | 往主库追加一条原始消息 |
 

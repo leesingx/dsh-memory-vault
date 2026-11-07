@@ -1,6 +1,6 @@
 {
   "name": "dsh-memory-vault",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "独立的两级记忆库插件：副库条目 + 主库原文，七层结构、潮汐衰减、自然遗忘（清晰→模糊→影子→沉底）、锚点钉住、日纪要。默认空库，数据只落在 <DSH_HOME>/memory-vault。",
   "type": "module",
   "main": "lib/index.js",
